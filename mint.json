@@ -1,0 +1,19 @@
+{
+  "name": "template-advanced",
+  "application": {
+    "head": "assets/head.html",
+    "title": "Advanced Project Template",
+    "icon": "assets/favicon.png"
+  },
+  "external": {
+    "stylesheets": [
+      "assets/style.css"
+    ]
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ]
+}
